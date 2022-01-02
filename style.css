@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:100px;
+    
+}
+
+header input {
+    width:300px;
+    height:40px;
+    border-radius: 16px 0px 16px 0px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.button{
+    border-radius: 16px 0px 16px 0;
+    margin-top: 20px;
+    padding:8px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: rgba(99, 4, 4, 0.678);
+    color: white;
+}
+
+#output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:30px;
+}
+
+img{
+    width:500px;
+    height:400px;
+    aspect-ratio: 1;
+}
+
+#output .name, .about{
+    font-size: 20px;
+    font-weight: 550;
+    font-style: italic;
+    font-family: sans-serif;
+
+}
