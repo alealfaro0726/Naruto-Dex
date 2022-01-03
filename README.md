@@ -1,1 +1,3 @@
-THIS IS A NARUTO DEX THAT I GOT THE HELP FROM AN API BUT IT IS IN PORTUGUESE. I MADE THIS IN A LIKE AN HOUR AND I JUST STARTED LEARNING JAVASCRIPT AND USING API'S.
+# Naruto Dex
+
+This is a basic API application that is portuguese. It displays info about the character and the gender.
